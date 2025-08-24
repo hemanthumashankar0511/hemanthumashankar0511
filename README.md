@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 # 👋 Hi, I'm **Hemanth Umashankar**  
-💻 *AI | Data Science | Automation Developer*  
+💻 *AI | Data Science | Automation enthusiast*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemanthumashankar0511&label=Views&color=blueviolet&style=flat)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/hemanthumashankar0511)
