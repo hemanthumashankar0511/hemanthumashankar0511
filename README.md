@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="AI & Data Science Banner" />
+![Header](./github-header-banner.png)
 
 # 👋 Hi, I'm **Hemanth Umashankar**  
 💻 *AI | Data Science | Automation Developer*  
@@ -62,4 +62,3 @@
 
 ---
 
-<img src="https://i.imgur.com/ZXBtVw7.jpg" width="100%" alt="Cool Tech Footer" />
