@@ -37,7 +37,6 @@
 ## 🏆 Achievements
 - Cisco Forecast League – **87% accuracy in demand prediction**
 - JAGSoM Next Gen Minds – **National Finalist (Top 100 / 7200+)**
-- Treasurer @ **Institution’s Innovation Council, BMSCE**
 
 ---
 
